@@ -1,0 +1,12 @@
+.info-section img{
+    height: 320px;   
+}
+.border{
+    background: rgba(25, 72, 104, 0.548);
+    height: 5px!important;
+    width: 40px;
+    margin: 10px 0px;
+}
+.navbar-brand a {
+    text-align: end;
+}
